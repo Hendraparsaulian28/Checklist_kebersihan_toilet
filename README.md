@@ -14,7 +14,7 @@
 |username :| admin  |
 | --- | --- |
 |password : | admin |
-|link Web HOSTING DEMO : | https://checklisttoilet.000webhostapp.com/login.php |
+|link Web HOSTING DEMO : | https://cektoilet.000webhostapp.com/tambah.php |
 |link youtube : |  |
 
 
