@@ -14,7 +14,7 @@
 |username :| admin  |
 | --- | --- |
 |password : | admin |
-|link Web HOSTING DEMO : | https://cektoilet.000webhostapp.com/tambah.php |
+|link Web HOSTING DEMO : | https://cektoilet.000webhostapp.com/ |
 |link youtube : | https://youtu.be/ibw5NvDRqfQ?si=im-AKzvbBrIZtGsB |
 
 
