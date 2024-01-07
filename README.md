@@ -14,7 +14,7 @@
 |username :| admin  |
 | --- | --- |
 |password : | admin |
-|link Web HOSTING DEMO : | https://cektoilet.000webhostapp.com/ |
+|link Web HOSTING DEMO : | https://cektoilet.000webhostapp.com/home.php |
 |link youtube : | https://youtu.be/ibw5NvDRqfQ?si=im-AKzvbBrIZtGsB |
 
 
