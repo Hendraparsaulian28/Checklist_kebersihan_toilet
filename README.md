@@ -5,7 +5,7 @@ kelompok 6
 Nama:Hendra Parsaulian( 312210689 )
     :Taufik Eka Albami( 312210347 )
     :Yudha Purnama Putra( 312210352 )
-Kelas: T.I 22A3
+Kelas: T.I 22 A3
 Tugas UAS Pemograman Web
 ```
 
