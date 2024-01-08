@@ -3,8 +3,8 @@
 kelompok 6
 ``` python
 Nama:Hendra Parsaulian( 312210689 )
-    :Taufik Eka Albami
-    :Yudha Purnama Putra
+    :Taufik Eka Albami( 312210347 )
+    :Yudha Purnama Putra( 312210352 )
 Kelas: T.I 22A3
 Tugas UAS Pemograman Web
 ```
