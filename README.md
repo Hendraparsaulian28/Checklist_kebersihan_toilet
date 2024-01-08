@@ -1,10 +1,11 @@
 # Project_UAS
 
-| Nama      | Hendra Parsaulian |
-| ----------- | ----------- |
-| NIM     | 312210689       |
-| Kelas   | TI.22.A.3        |
-| Tugas   | UAS Pemograman Web        |
+kelompok 6
+Nama:Hendra Parsaulian( 312210689 )
+    :Taufik Eka Albami
+    :Yudha Purnama Putra
+Kelas: T.I 22A3
+Tugas UAS Pemograman Web
 
 
 # Tugas Project Ujian Akhir Semester
